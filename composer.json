@@ -1,0 +1,16 @@
+{
+  "name": "victor8730/yii-ckfinder",
+  "description": "",
+  "keywords": ["yii", "extension", "widget", "ckeditor", "wysiwyg", "ckfinder"],
+  "homepage": "https://github.com/victor8730/yii-ckfinder",
+  "type": "yii-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor Galiuzov"
+    }
+  ],
+  "require": {
+    "yiisoft/yii": "*"
+  }
+}
